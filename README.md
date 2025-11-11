@@ -1,4 +1,4 @@
-# Chrome Addon Action
+# Chrome Addon Action Hello it's Cbonelo Gate from Richards bay free tech skills
 
 This action will publish your addon to the Chrome Web Store.
 
